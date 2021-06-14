@@ -4,4 +4,4 @@
 ⚙️ Next iteration: Add percentage operation and negative numbers. 
 
 
-<img src="https://giphy.com/embed/r3K5vdUejmFpgfeNP1" width="388" height="480" alt="cal" class="giphy-embed"/>
+<img src="https://media.giphy.com/media/r3K5vdUejmFpgfeNP1/giphy.gif" width="388" height="480" alt="cal" class="giphy-embed"/>
